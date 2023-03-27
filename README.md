@@ -160,12 +160,12 @@ cv2.destoryAllWindows()
 
 
 ### vi) Convert HSV to RGB
-![output6](HSV to RGB.png)
+![output6](HSVtoRGB.png)
 
 
 
 ### vii) Convert HSV to BGR
-![output7](HSV to BGR.png)
+![output7](HSVtoBGR.png)
 
 
 
@@ -180,10 +180,10 @@ cv2.destoryAllWindows()
 
 ### x) Merge RGB Image
 
-![rchannel](rgb channel.png)
+![rchannel](rgbchannel.png)
 
 
-![merged bgr](Merged HSV Image.png)
+![merged bgr](MergedHSVImage.png)
 
 
 
@@ -195,7 +195,7 @@ cv2.destoryAllWindows()
 
 ![grayimg](gray-image.png)
 
-![lastone](Merged HSV Image.png)
+![lastone](MergedHSVImage.png)
 
 
 
