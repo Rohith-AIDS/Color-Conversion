@@ -155,50 +155,47 @@ cv2.destoryAllWindows()
 ![](RGB2HSV.png)
 
 ### v) Convert RGB to GRAY
-![output5](https://user-images.githubusercontent.com/93427255/228017032-7855acf9-ae96-44f4-a141-a1112d5521e1.png)
+![](RGB2GRAY.png)
 
 
 
 ### vi) Convert HSV to RGB
-![output6](https://user-images.githubusercontent.com/93427255/228017063-0acf87f1-c141-4cd4-bcba-7efec5020e5b.png)
+![output6](HSV to RGB.png)
 
 
 
 ### vii) Convert HSV to BGR
-![output7](https://user-images.githubusercontent.com/93427255/228017094-b002f27e-4c17-400d-afc5-fa8f2c65d19e.png)
+![output7](HSV to BGR.png)
 
 
 
 ### viii) Convert RGB to YCrCb
-![output8](https://user-images.githubusercontent.com/93427255/228017125-db247460-6f6a-4d5c-aa9f-0ce3abe418ec.png)
+![output8](RGB2YCrCb.png)
 
 
 
 ### ix) Convert BGR to YCrCb
-![output9](https://user-images.githubusercontent.com/93427255/228017158-044ed1a8-b213-4a65-b9e2-1a8d2c40d5a8.png)
+![output9](BGR2YCrCb.png)
 
 
 ### x) Merge RGB Image
 
-![rchannel](https://user-images.githubusercontent.com/93427255/228011664-2ed69ee7-8d01-4eaf-99d6-50843d3559d3.png)
+![rchannel](rgb channel.png)
 
-![gchannel](https://user-images.githubusercontent.com/93427255/228016079-66e30125-c00b-47dd-b09f-7cdb05df8e39.png)
 
-![bchannel](https://user-images.githubusercontent.com/93427255/228014963-9204e65a-9198-46a7-b39c-fd5975f5cb49.png)
-
-![merged bgr](https://user-images.githubusercontent.com/93427255/228011596-b3a0cf9b-2331-4e7b-8d5e-291308691691.png)
+![merged bgr](Merged HSV Image.png)
 
 
 
 ### xi) Split HSV Image and xii) Merge HSV Image
 
-![saturation](https://user-images.githubusercontent.com/93427255/228012206-42758cbd-5dff-4bd6-90b2-ede7c4e7b723.png)
+![saturation](Saturation-image.png)
 
-![hue](https://user-images.githubusercontent.com/93427255/228016128-20edd335-72f7-4d5f-80ec-752fc0e2c86e.png)
+![hue](Hue-image.png)
 
-![grayimg](https://user-images.githubusercontent.com/93427255/228016151-deeca302-f8c6-417c-b88f-5c86b49ae692.png)
+![grayimg](gray-image.png)
 
-![lastone](https://user-images.githubusercontent.com/93427255/228016167-362ea6fb-771e-4d55-a463-9313d1d8995a.png)
+![lastone](Merged HSV Image.png)
 
 
 
